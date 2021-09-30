@@ -1,0 +1,17 @@
+.test_image_and_result {
+    background-color: aqua;
+    color: purple;
+}
+
+.result {
+ color: red;
+}
+
+.heading_1 , .result {
+    background: white;
+    padding:10px;
+    border-radius: 10px;
+}
+ .hr {
+     background-color: black;
+ }
